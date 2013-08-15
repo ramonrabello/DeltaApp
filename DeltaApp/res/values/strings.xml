@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Delta de Agilidade App</string>
+    <string name="action_sobre">Sobre</string>
+    <string name="title_activity_principal">Delta App</string>
+    
+    <!-- Título para as abas -->
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Sobre</string>
+     <string name="title_section3">Inscrições e Valores</string>
+    <string name="title_section4">Programação</string>
+    <string name="title_section5">Palestrantes</string>
+    <string name="title_section6">Patrocínio</string>
+    <string name="title_section7">Contato</string>
+    
+    <!-- URLs das páginas -->
+    <string name="url_home">http://www.deltadeagilidade.com.br</string>
+    <string name="url_sobre">http://www.deltadeagilidade.com.br/sobre/</string>
+    <string name="url_inscricoes_e_valores">http://www.deltadeagilidade.com.br/inscricoes-e-valores/</string>
+    <string name="url_programacao">http://www.deltadeagilidade.com.br/programacao/</string>
+    <string name="url_palestrantes">http://www.deltadeagilidade.com.br/palestrantes/</string>
+    <string name="url_patrocinio">http://www.deltadeagilidade.com.br/patrocinio/</string>
+    <string name="url_contato">http://www.deltadeagilidade.com.br/contato/</string>
+    <string name="texto_descricao_conteudo_logo_delta">Logo do Delta de Agilidade</string>
+    <string name="hint_campo_usuario">usuário</string>
+    <string name="hint_campo_senha">senha</string>
+    <string name="texto_botao_entrar">Entrar</string>
+    <string name="texto_descricao_sobre_deltaapp">Esta app foi desenvolvida durante o Mini-Curso do @androidnarede - "Dominando Android - Desenvolvimento Ágil de Apps Orientado a Testes", no Delta de Agilidade.</string>
+</resources>
